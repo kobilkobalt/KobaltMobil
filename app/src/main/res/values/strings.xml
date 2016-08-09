@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kobalt</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Add_New">Yeni Ekle</string>
+    <string name="edit">Bağlantı Düzenle</string>
+    <string name="delete">Bağlantı Sil</string>
+    <string name="title_activity_display_host">Bağlantı Görüntüle</string>
+    <string name="schema">Veritabanı</string>
+    <string name="url">Url</string>
+    <string name="port">Port</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="save">Bağlantı Kaydet</string>
+    <string name="deleteHost">Silmek İstediğinizden Eminmisiniz ?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="updated">Güncellendi</string>
+    <string name="not_updated">Güncellenemedi</string>
+    <string name="done">Başarılı</string>
+    <string name="not_done">Başarısız</string>
+    <string name="login">Giriş</string>
+    <string name="host">Bağlantı</string>
+    <string name="deletedSuccessfully">Başarıyla Silindi</string>
+    <string name="loginFault">Kullanıcı Adı/Şifre Hatalı</string>
+    <string name="no_module_permission">Kullanıcının Modül İzni Yok</string>
+    <string name="no_mobile_permission">Bu Aygıtın Kullanım İzni Bulunmamaktadır !</string>
+    <string name="inputParamaters">Kullanıcı Adı/Şifre Giriniz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab_deneme">TabDeneme</string>
+    <string name="title_activity_deneme">Deneme</string>
+    <string name="title_activity_deneme12">Deneme12</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
