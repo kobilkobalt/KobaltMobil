@@ -129,7 +129,7 @@ public class BordroActivity extends AppCompatActivity {
         itemEight.setName("Karşılıksız");
         items.add(itemEight);
 
-
+//gfgfgfgfgfgfgfgfgfgfgfgfgfg
 
         GeneralMethods.getInstance().fillCategorySpinner(this,status,items);
 
