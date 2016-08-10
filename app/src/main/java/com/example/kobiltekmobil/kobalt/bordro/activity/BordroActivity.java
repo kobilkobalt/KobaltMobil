@@ -36,7 +36,7 @@ public class BordroActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bordro);
-
+//deneme commiti
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("BORDRO TAKİBİ");
@@ -139,8 +139,8 @@ public class BordroActivity extends AppCompatActivity {
 
         type=(Spinner)findViewById(R.id.spinnerType);
         status=(Spinner)findViewById(R.id.spinnerStatus);
-        creationStart =(EditText) findViewById(R.id.textCreationDate);
-        termStart =(EditText) findViewById(R.id.textTermDate);
+        creationStart =(EditText) findViewById(R.id.textCreationStart);
+        termStart =(EditText) findViewById(R.id.textTermStart);
         creationStart.setInputType(InputType.TYPE_NULL);
         termStart.setInputType(InputType.TYPE_NULL);
         termStart.setInputType(InputType.TYPE_NULL);
